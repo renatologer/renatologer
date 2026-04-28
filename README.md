@@ -1,6 +1,6 @@
 # Olá! Eu sou o Renato Lima👋
 
-![Snake animation](https://github.com/renatologer/renatologer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ## 🧑‍💻 Sobre mim
 
