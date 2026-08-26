@@ -9,7 +9,7 @@ Profissional com carreira consolidada em **Tecnologia da Informação**, com exp
 - 🔭 Atualmente buscando oportunidades como **Analista de Dados | DBA | Big Data | Prevenção a Fraudes**
 - 🌱 Aprofundando conhecimentos em **Machine Learning, Spark NLP e Inteligência Artificial**
 - 💬 Pergunte-me sobre **SQL, Python, Power BI, Big Data e Automação de Processos**
-- 📫 Contato: renatolimaesseano@hotmail.com | (11) 95156-8392
+- 📫 Contato:renatolimalinux87@gmail.com | 
 
 
 ---
