@@ -10,17 +10,13 @@ Profissional com carreira consolidada em **Tecnologia da Informação**, com exp
 - 🌱 Aprofundando conhecimentos em **Machine Learning, Spark NLP e Inteligência Artificial**
 - 💬 Pergunte-me sobre **SQL, Python, Power BI, Big Data e Automação de Processos**
 - 📫 Contato: renatolimaesseano@hotmail.com | (11) 95156-8392
-- 📍 Jandira - SP, Brasil
-- ♿ PCD Autista — CID F84.1
+
 
 ---
 
 ## 🌐 Redes Sociais
 
 <div>
-  <a href="https://www.linkedin.com/in/renato-limamais" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="https://renatologer.medium.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
